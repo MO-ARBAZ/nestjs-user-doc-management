@@ -7,4 +7,4 @@ export class CreateIngestionDto {
   @IsNotEmpty()
   documentId: string
 }
-
+ 
